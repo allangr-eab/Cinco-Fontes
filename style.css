@@ -1,0 +1,31 @@
+corpo{
+    fundo:  #184bd6;
+    alinhamento de texto: centro;
+}
+. titulo{
+    decoração de texto: sublinhar;
+    cor:  #F2059F;
+    
+}
+. sub-titulo{
+    cor:  #e48e1d;
+}
+P{
+    cor:  #3cdb2e;
+    alinhamento de texto: justificar;
+}
+#Serif{
+    fonte-família: 'Playfair Display', serif;
+}
+#sans-serif{
+    fonte-família: 'Russo Um', sans-serif;
+}
+#exposição{
+    fonte-família: 'Elite Especial', cursiva;
+}
+#handwritting{
+    fonte-família: 'Indie Flower', cursiva;
+}
+#Monospace{
+    família de fontes: 'VT323', monoespaço;
+}
