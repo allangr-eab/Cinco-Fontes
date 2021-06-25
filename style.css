@@ -1,31 +1,31 @@
-corpo{
-    fundo:  #184bd6;
-    alinhamento de texto: centro;
+body{
+    background: #157dad;
+    text-align: center;
 }
-. titulo{
-    decoração de texto: sublinhar;
-    cor:  #F2059F;
+.titulo{
+    text-decoration: underline;
+    color: #4f12c0;
     
 }
-. sub-titulo{
-    cor:  #e48e1d;
+.sub-titulo{
+    color: #af1622;
 }
-P{
-    cor:  #3cdb2e;
-    alinhamento de texto: justificar;
+p{
+    color: #c07219;
+    text-align: justify;
 }
-#Serif{
-    fonte-família: 'Playfair Display', serif;
+#serif{
+    font-family: 'Playfair Display', serif;
 }
 #sans-serif{
-    fonte-família: 'Russo Um', sans-serif;
+    font-family: 'Russo One', sans-serif;
 }
-#exposição{
-    fonte-família: 'Elite Especial', cursiva;
+#display{
+    font-family: 'Special Elite', cursive;
 }
 #handwritting{
-    fonte-família: 'Indie Flower', cursiva;
+    font-family: 'Indie Flower', cursive;
 }
-#Monospace{
-    família de fontes: 'VT323', monoespaço;
+#monospace{
+    font-family: 'VT323', monospace;
 }
